@@ -2,7 +2,7 @@
 // Forked from https://gist.github.com/1809044
 // Available from https://gist.github.com/nichtich/5290675#file-deploy-php
 $TITLE   = 'Git Deployment Hamster';
-$VERSION = '0.11';
+$VERSION = '1.8';
 echo <<<EOT
 <!DOCTYPE HTML>
 <html lang="en-US">
